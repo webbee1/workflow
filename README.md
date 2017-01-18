@@ -1,4 +1,4 @@
- git clone https://github.com/webbee1/workflow
- cd workflow
- npm i
- bower i
+1. git clone https://github.com/webbee1/workflow
+2. cd workflow
+3. npm i
+4. bower i
